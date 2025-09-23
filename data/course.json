@@ -1,0 +1,64 @@
+{
+  "term": "Spring",
+  "year": "2006",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Science",
+      "Earth Science",
+      "Atmospheric Science"
+    ],
+    [
+      "Science",
+      "Earth Science",
+      "Planetary Science"
+    ],
+    [
+      "Engineering",
+      "Mechanical Engineering",
+      "Fluid Mechanics"
+    ],
+    [
+      "Engineering",
+      "Mechanical Engineering",
+      "Solid Mechanics"
+    ],
+    [
+      "Science",
+      "Earth Science",
+      "Geology"
+    ]
+  ],
+  "legacy_uid": "6544c3a6-d356-d0e0-627f-278dfeb648b4",
+  "instructors": {
+    "content": [
+      "0b0ef8ef-5794-1e04-e912-e939df5bf856"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "31833358-55a4-2f58-2bd9-700db57a5823",
+    "website": "12-005-applications-of-continuum-mechanics-to-earth-atmospheric-and-planetary-sciences-spring-2006"
+  },
+  "course_title": "Applications of Continuum Mechanics to Earth, Atmospheric, and Planetary Sciences",
+  "course_description": "This course focuses on the practical applications of the continuum concept for deformation of solids and fluids, emphasizing force balance. Topics include stress tensor, infinitesimal and finite strain, and rotation tensors. Constitutive relations applicable to geological materials, including elastic, viscous, brittle, and plastic deformation are studied.\n",
+  "department_numbers": [
+    "12"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "12.005",
+  "course_image_thumbnail": {
+    "content": "5b98e0ec-1ecf-2fda-e547-895612a3803f",
+    "website": "12-005-applications-of-continuum-mechanics-to-earth-atmospheric-and-planetary-sciences-spring-2006"
+  },
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Problem Sets"
+  ],
+  "site_uid": "ac75b008-78d7-4102-a69e-d98761120799",
+  "site_short_id": "12.005-spring-2006",
+  "site_url_path": "courses/12-005-applications-of-continuum-mechanics-to-earth-atmospheric-and-planetary-sciences-spring-2006",
+  "title": "Course Metadata"
+}
